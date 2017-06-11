@@ -4,7 +4,7 @@ maintainer_email 'juzerali@juzerali.com'
 license 'all_rights'
 description 'Installs/Configures apache'
 long_description 'Installs/Configures apache'
-version '0.2.1'
+version '2.0.0'
 
 # If you upload to Supermarket you should set this so your cookbook
 # gets a `View Issues` link

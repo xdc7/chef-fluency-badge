@@ -1,6 +1,6 @@
 file 'default www' do
   path '/var/www/html/index.html'
-  content 'hello world'
+  content 'hello world v2.0'
   owner 'root'
   group 'apache'
   mode '0755'
