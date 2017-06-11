@@ -6,3 +6,9 @@ file 'default www' do
   mode '0755'
   action :create
 end
+
+webnodes = search('node', 'role:web')
+
+webnodes.each do |node|
+  puts node
+end
