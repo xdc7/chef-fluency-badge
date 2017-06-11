@@ -7,3 +7,4 @@ node_name                "xdc7"
 client_key               "#{current_dir}/xdc7.pem"
 chef_server_url          "https://api.chef.io/organizations/juzer"
 cookbook_path            ["#{current_dir}/../cookbooks"]
+knife[:editor] = "C:\\progra~2\\notepa~1\\notepad++.exe -nosession -multiInst"
